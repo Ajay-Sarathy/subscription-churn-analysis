@@ -1,4 +1,5 @@
 # Subscription Churn Early-Warning & Retention Strategy
+Business Analytics Capstone Project
 
 ## Project Overview
 This project analyzes subscriber churn for a simulated OTT platform called Immensity. 
@@ -71,9 +72,19 @@ Business Strategy
 ```
 
 ## Business Impact
-The analysis identified high-risk churn segments and estimated revenue exposure across subscription plans.  
-Early detection of churn enables proactive retention campaigns, helping protect recurring subscription revenue.
 
+This analysis identifies early warning signals of subscriber churn and estimates the revenue at risk across different customer segments.
+
+The churn prediction model enables proactive retention strategies by identifying high-risk users 7–14 days before potential cancellation.
+
+By targeting high-risk segments with engagement nudges and retention offers, the platform can reduce churn and protect recurring subscription revenue.
+
+## Future Improvements
+
+• Incorporate additional behavioral features such as content category preferences  
+• Use advanced models like XGBoost or LightGBM for improved prediction accuracy  
+• Deploy the model as a real-time churn monitoring system  
+• Integrate campaign response data for measuring retention intervention effectiveness
 
 
 
