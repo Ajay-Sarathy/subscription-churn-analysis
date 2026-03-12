@@ -5,6 +5,9 @@ This project analyzes subscriber churn for a simulated OTT platform called Immen
 The goal is to identify early warning signals of churn, build a predictive model, and 
 recommend targeted retention strategies.
 
+##Dashboard Preview
+!Dashboard(dashboard_preview.png)
+
 ## Key Features
 - Python ETL pipeline for cleaning and transforming subscription data
 - Cohort retention and segmentation analysis
@@ -22,3 +25,4 @@ Users who churn show a significant decline in engagement prior to cancellation, 
 
 ## Tools Used
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Excel
+
