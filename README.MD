@@ -27,6 +27,7 @@ Users who churn show a significant decline in engagement prior to cancellation, 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Excel
 
 ## Project Structure
+```
 Business Problem
 ↓
 Data Engineering
@@ -36,9 +37,11 @@ Exploratory Analysis
 Machine Learning
 ↓
 Business Strategy
+```
 
 ## Business Impact
 The analysis identified high-risk churn segments and estimated revenue exposure across subscription plans.  
 Early detection of churn enables proactive retention campaigns, helping protect recurring subscription revenue.
+
 
 
