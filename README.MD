@@ -1,5 +1,5 @@
 # Subscription Churn Early-Warning & Retention Strategy
-Business Analytics Capstone Project
+**Business Analytics Capstone Project**
 
 ## Project Overview
 This project analyzes subscriber churn for a simulated OTT platform called Immensity. 
@@ -60,15 +60,26 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, Excel
 
 ## Project Structure
 ```
-Business Problem
-↓
-Data Engineering
-↓
-Exploratory Analysis
-↓
-Machine Learning
-↓
-Business Strategy
+subscription-churn-analysis
+│
+├── notebooks
+│ └── Analysis.ipynb
+│
+├── dashboard
+│ └── Churn_Dashboard.xlsx
+│
+├── presentation
+│ └── Capstone_Presentation.pptx
+│
+├── data
+│ └── model_churn_dataset.csv
+│
+├── docs
+│ └── Part_A_Problem_Framing.docx
+│
+├── dashboard_preview.png
+│
+└── README.md
 ```
 
 ## Business Impact
@@ -85,6 +96,7 @@ By targeting high-risk segments with engagement nudges and retention offers, the
 • Use advanced models like XGBoost or LightGBM for improved prediction accuracy  
 • Deploy the model as a real-time churn monitoring system  
 • Integrate campaign response data for measuring retention intervention effectiveness
+
 
 
 
